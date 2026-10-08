@@ -13,5 +13,6 @@ A focused study workspace for law-school practice questions, model answers, anno
 - [Privacy Policy](privacy/)
 - [Terms of Use](terms/)
 - [Account Deletion](account-deletion/)
+- [Age Suitability](age-suitability/)
 
 StudyCanvas is an educational study tool and does not provide legal advice.
