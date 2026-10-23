@@ -10,6 +10,13 @@ title: Terms of Use
 **Developer:** Luke Reed  
 **Contact:** coolhandlukere@gmail.com
 
+## Apple Standard EULA
+StudyCanvas is distributed through Apple's App Store and uses Apple's Standard Licensed Application End User License Agreement (EULA), available at:
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+These StudyCanvas Terms supplement the Apple Standard EULA. If there is a conflict regarding the license to the App Store application, the Apple Standard EULA governs.
+
 ## Eligibility
 StudyCanvas accounts are intended for users age **18 or older**.
 
